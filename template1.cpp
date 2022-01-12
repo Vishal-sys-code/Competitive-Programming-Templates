@@ -1,6 +1,7 @@
 // MEHENGA HEADER FILES
 #include <iostream>
 #include<vector>
+#include <bitset>
 #include<map>
 #include<list>
 #include<set>
