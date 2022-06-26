@@ -1,4 +1,6 @@
 /* 1.) GCD OR HCF (GREATEST COMMON DIVISOR) */
+#include <bits/stdc++.h>
+using namespace std;
 
 int gcd(int a, int b) {
 	if (a == 0) return b;
@@ -396,3 +398,7 @@ void segmented_sieve() {
 //Time Complexity: O(n)
 
 //----------------------------------------------------------------------------------------------------------------------------------
+
+int main(){
+	return 0;
+}
